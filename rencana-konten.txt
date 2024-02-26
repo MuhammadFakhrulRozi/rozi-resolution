@@ -2,3 +2,7 @@ rencana
 
 -nyulik putri kerajaan
 -bertarung dengan jendral terkuat
+
+-kalah dari jendral terkuat
+atau
+-menang dari jendral terkuat
